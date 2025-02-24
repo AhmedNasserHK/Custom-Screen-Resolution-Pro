@@ -15,7 +15,7 @@
   <a href="https://hk4tech.com/home/">
   </a>
   <br>
-  v1.0.2025.1R2 (Gameloop Portable Full) - Jan 21, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/1.0.2025.1R2/Gameloop.Portable.FULL.v1.0.2025.1.UPDATE-2025.01.21.7z">Download (21.01 MB)</a>
+  v2.0.1.0 (Custom Screen Resolution Pro (Full Free(Ramadan 2025 Gift))) - Feb 24, 2025 - <a href="https://github.com/AhmedNasserHK/Custom-Screen-Resolution-Pro/releases/download/2.0.1.0/Custom.Screen.Resolution.Pro.v2.7z">Download (31.03 MB)</a>
   <br>
 
 ## 🎬 Review On HK Gallery Studio:
