@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Custom Screen Resolution Pro</h1>
 <p align="center">
-<h3 align="center" One Click, Get Your Great Custom Resolution as your needed</h3>
-  <a href="https://github.com/AhmedNasserHK/Custom-Screen-Resolution-Pro/releases">
+<h3 align="center"> One Click, Get Your Great Custom Resolution as your needed</h3>
+  <a align="center" href="https://github.com/AhmedNasserHK/Custom-Screen-Resolution-Pro/releases">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/Custom-Screen-Resolution-Pro?include_prereleases">
     <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/Custom-Screen-Resolution-Pro/total">
   </a>
